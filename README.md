@@ -18,4 +18,5 @@ This project is a javascipt based quiz, where the user is asked few questions pe
 # Contributor
 Teddy Dye
 
-## Test
+# Test
+NA
