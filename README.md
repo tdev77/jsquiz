@@ -10,3 +10,4 @@ This project is a javascipt based quiz, where the user is asked few questions pe
 ## Tools
 * Html
 * Css
+* Javascript
